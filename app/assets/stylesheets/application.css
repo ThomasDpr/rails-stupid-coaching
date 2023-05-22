@@ -13,3 +13,27 @@
  *= require_tree .
  *= require_self
  */
+
+.card-ask {
+  width: 100%;
+  height: 50%;
+  background: #ffffff;
+  margin: 20px;
+  border-left: 8px solid #dddddd;
+}
+
+.card-ask p {
+  padding: 20px;
+}
+
+.card-answer {
+  width: 100%;
+  height: 50%;
+  background: #ffffe1;
+  margin: 20px;
+  border-left: 8px solid #dddddd;
+}
+
+.card-answer p {
+  padding: 20px;
+}
